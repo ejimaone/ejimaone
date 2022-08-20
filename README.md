@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ejimaone
 - 👀 I’m interested in entry level || Internship 
+- proficient  in basic vanila Javascript ,DOM manipulation an API
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... E-mail; abdulwahabonozutu@gmail.com
