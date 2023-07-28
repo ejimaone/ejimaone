@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ejimaone
 - 👀 I’m interested in entry level || Internship 
-- 💪 proficient  in basic vanila Javascript ,DOM manipulation
+- 💪 proficient  in basic vanila React,next,unit testing
      working with API's ,HTML and CSS
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on project that can widen my tech stack
